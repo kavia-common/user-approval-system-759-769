@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/tmp/kavia/workspace/code-generation/user-approval-system-759-769/social_media_backend"
+}
